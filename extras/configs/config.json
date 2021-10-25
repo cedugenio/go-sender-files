@@ -1,0 +1,10 @@
+{
+    "accessKey": "xxxxxxxxxxxxx",
+    "secretKey": "12345",
+    "bucketName": "repoFiles",
+    "logApplication":"logApplication",
+    "logDirectory": "logDirectory",
+    "logMode": false
+
+
+}
